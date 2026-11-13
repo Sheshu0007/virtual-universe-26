@@ -1,0 +1,2 @@
+- Espresso: $3.00
+- latte:$4.5
